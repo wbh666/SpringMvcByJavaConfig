@@ -1,0 +1,2 @@
+# SpringMvcByJavaConfig
+通过javaconfig配置的简单springmvc项目
